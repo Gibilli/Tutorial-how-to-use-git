@@ -1,2 +1,2 @@
 # Tutorial how to use git
-This is my first git repository ciao
+This is my first git repository 
